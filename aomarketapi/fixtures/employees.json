@@ -1,0 +1,23 @@
+[
+  {
+    "model": "aomarketapi.employees",
+    "pk": 1,
+    "fields": {
+      "name": "Karel Robot"
+    }
+  },
+  {
+    "model": "aomarketapi.employees",
+    "pk": 2,
+    "fields": {
+      "name": "Paige Fungi"
+    }
+  },
+  {
+    "model": "aomarketapi.employees",
+    "pk": 3,
+    "fields": {
+      "name": "Lori Crimson"
+    }
+  }
+]

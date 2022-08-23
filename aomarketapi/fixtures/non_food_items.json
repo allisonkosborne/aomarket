@@ -1,0 +1,20 @@
+[
+  {
+    "model": "aomarketapi.non_food_item",
+    "pk": 1,
+    "fields": {
+      "title": "Hammer",
+      "description": "These are for hammering things",
+      "price": 10.99
+    }
+  },
+  {
+    "model": "aomarketapi.non_food_item",
+    "pk": 2,
+    "fields": {
+      "title": "Blankets",
+      "descrition": "These are for sleeping",
+      "price": 15.99
+    }
+  }
+]

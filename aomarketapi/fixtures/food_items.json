@@ -1,0 +1,22 @@
+[
+    {
+      "model": "aomarketapi.food_item",
+      "pk": 1,
+      "fields": {
+        "title": "Soup",
+        "description": "These are some soupy things",
+        "price": 4.99,
+        "type": "side"
+      }
+    },
+    {
+      "model": "aomarketapi.food_item",
+      "pk": 2,
+      "fields": {
+        "title": "Pasta",
+        "descrition": "These are noodles",
+        "price": 15.99,
+        "type": "entree"
+      }
+    }
+]

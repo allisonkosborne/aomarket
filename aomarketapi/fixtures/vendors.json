@@ -1,0 +1,22 @@
+[
+  {
+    "model": "aomarketapi.vendors",
+    "pk": 1,
+    "fields": {
+      "title": "Grace's Farm",
+      "description": "Great spinach",
+      "price": 2.99,
+      "product": "lettuce"
+    }
+  },
+  {
+    "model": "aomarketapi.vendors",
+    "pk": 2,
+    "fields": {
+      "title": "Peter's Pastures",
+      "descrition": "These are great",
+      "price": 15.99,
+      "product": "mushrooms"
+    }
+  }
+]
